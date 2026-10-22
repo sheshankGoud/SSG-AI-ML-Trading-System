@@ -1,0 +1,11 @@
+fyers-apiv3==3.1.16
+joblib==1.5.3
+numpy==2.5.2
+pandas==3.0.5
+scikit-learn==1.9.0
+scipy==1.18.1
+requests==2.31.0
+websocket-client==1.6.1
+python-dateutil==2.9.0.post0
+streamlit==1.62.0
+matplotlib==3.11.1
